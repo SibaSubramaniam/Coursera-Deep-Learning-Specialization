@@ -20,15 +20,15 @@ Currently, this repo has 3 major parts you may be interested in and I will give 
 
 - Course 1: Neural Networks and Deep Learning
 
-  - [Week 2 - PA 1 - Logistic Regression with a Neural Network mindset](https://github.com/Kulbear/deep-learning-coursera/blob/master/Neural%20Networks%20and%20Deep%20Learning/Logistic%20Regression%20with%20a%20Neural%20Network%20mindset.ipynb)
-  - [Week 3 - PA 2 - Planar data classification with one hidden layer](https://github.com/Kulbear/deep-learning-coursera/blob/master/Neural%20Networks%20and%20Deep%20Learning/Planar%20data%20classification%20with%20one%20hidden%20layer.ipynb)
-  - [Week 4 - PA 3 - Building your Deep Neural Network: Step by Step¶](https://github.com/Kulbear/deep-learning-coursera/blob/master/Neural%20Networks%20and%20Deep%20Learning/Building%20your%20Deep%20Neural%20Network%20-%20Step%20by%20Step.ipynb)
-  - [Week 4 - PA 4 - Deep Neural Network for Image Classification: Application](https://github.com/Kulbear/deep-learning-coursera/blob/master/Neural%20Networks%20and%20Deep%20Learning/Deep%20Neural%20Network%20-%20Application.ipynb)
+  - [Week 2 - PA 1 - Logistic Regression with a Neural Network mindset](https://github.com/SibaSubramaniam/Coursera-Deep-Learning-Specialization/blob/master/Neural%20Networks%20and%20Deep%20Learning/Logistic%2BRegression%2Bwith%2Ba%2BNeural%2BNetwork%2Bmindset%2Bv5.ipynb)
+  - [Week 3 - PA 2 - Planar data classification with one hidden layer](https://github.com/SibaSubramaniam/Coursera-Deep-Learning-Specialization/blob/master/Neural%20Networks%20and%20Deep%20Learning/Planar%2Bdata%2Bclassification%2Bwith%2Bone%2Bhidden%2Blayer%2Bv5.ipynb)
+  - [Week 4 - PA 3 - Building your Deep Neural Network: Step by Step¶](https://github.com/SibaSubramaniam/Coursera-Deep-Learning-Specialization/blob/master/Neural%20Networks%20and%20Deep%20Learning/Building%2Byour%2BDeep%2BNeural%2BNetwork%2B-%2BStep%2Bby%2BStep%2Bv8.ipynb)
+  - [Week 4 - PA 4 - Deep Neural Network for Image Classification: Application](https://github.com/SibaSubramaniam/Coursera-Deep-Learning-Specialization/blob/master/Neural%20Networks%20and%20Deep%20Learning/Deep%2BNeural%2BNetwork%2B-%2BApplication%2Bv8.ipynb)
 
 - Course 2: Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization
 
-  - [Week 1 - PA 1 - Initialization](https://github.com/Kulbear/deep-learning-coursera/blob/master/Improving%20Deep%20Neural%20Networks%20Hyperparameter%20tuning%2C%20Regularization%20and%20Optimization/Initialization.ipynb)
-  - [Week 1 - PA 2 - Regularization](https://github.com/Kulbear/deep-learning-coursera/blob/master/Improving%20Deep%20Neural%20Networks%20Hyperparameter%20tuning%2C%20Regularization%20and%20Optimization/Regularization.ipynb)
-  - [Week 1 - PA 3 - Gradient Checking](https://github.com/Kulbear/deep-learning-coursera/blob/master/Improving%20Deep%20Neural%20Networks%20Hyperparameter%20tuning%2C%20Regularization%20and%20Optimization/Gradient%20Checking.ipynb)
-  - [Week 2 - PA 4 - Optimization Methods](https://github.com/Kulbear/deep-learning-coursera/blob/master/Improving%20Deep%20Neural%20Networks%20Hyperparameter%20tuning%2C%20Regularization%20and%20Optimization/Optimization%20methods.ipynb)
-  - [Week 3 - PA 5 - TensorFlow Tutorial](https://github.com/Kulbear/deep-learning-coursera/blob/master/Improving%20Deep%20Neural%20Networks%20Hyperparameter%20tuning%2C%20Regularization%20and%20Optimization/Tensorflow%20Tutorial.ipynb)
+  - [Week 1 - PA 1 - Initialization]()
+  - [Week 1 - PA 2 - Regularization]()
+  - [Week 1 - PA 3 - Gradient Checking]()
+  - [Week 2 - PA 4 - Optimization Methods]()
+  - [Week 3 - PA 5 - TensorFlow Tutorial]()
