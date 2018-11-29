@@ -26,8 +26,8 @@ As a CS major student and a long-time self-taught learner, I have completed many
 
 - Course 2: Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization
 
-  - [Week 1 - PA 1 - Initialization]()
-  - [Week 1 - PA 2 - Regularization]()
-  - [Week 1 - PA 3 - Gradient Checking]()
+  - [Week 1 - PA 1 - Initialization](https://github.com/SibaSubramaniam/Coursera-Deep-Learning-Specialization/blob/master/Improving%20Deep%20Neural%20Networks-%20Hyperparameter%20tuning-%20Regularization%20and%20Optimization/Initialization.ipynb)
+  - [Week 1 - PA 2 - Regularization](https://github.com/SibaSubramaniam/Coursera-Deep-Learning-Specialization/blob/master/Improving%20Deep%20Neural%20Networks-%20Hyperparameter%20tuning-%20Regularization%20and%20Optimization/Regularization%2B-%2Bv2.ipynb)
+  - [Week 1 - PA 3 - Gradient Checking](https://github.com/SibaSubramaniam/Coursera-Deep-Learning-Specialization/blob/master/Improving%20Deep%20Neural%20Networks-%20Hyperparameter%20tuning-%20Regularization%20and%20Optimization/Gradient%2BChecking%2Bv1.ipynb)
   - [Week 2 - PA 4 - Optimization Methods]()
   - [Week 3 - PA 5 - TensorFlow Tutorial]()
