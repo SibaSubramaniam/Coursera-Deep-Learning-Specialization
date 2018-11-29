@@ -21,7 +21,7 @@ As a CS major student and a long-time self-taught learner, I have completed many
 
   - [Week 2 - PA 1 - Logistic Regression with a Neural Network mindset](https://github.com/SibaSubramaniam/Coursera-Deep-Learning-Specialization/blob/master/Neural%20Networks%20and%20Deep%20Learning/Logistic%2BRegression%2Bwith%2Ba%2BNeural%2BNetwork%2Bmindset%2Bv5.ipynb)
   - [Week 3 - PA 2 - Planar data classification with one hidden layer](https://github.com/SibaSubramaniam/Coursera-Deep-Learning-Specialization/blob/master/Neural%20Networks%20and%20Deep%20Learning/Planar%2Bdata%2Bclassification%2Bwith%2Bone%2Bhidden%2Blayer%2Bv5.ipynb)
-  - [Week 4 - PA 3 - Building your Deep Neural Network: Step by Step¶](https://github.com/SibaSubramaniam/Coursera-Deep-Learning-Specialization/blob/master/Neural%20Networks%20and%20Deep%20Learning/Building%2Byour%2BDeep%2BNeural%2BNetwork%2B-%2BStep%2Bby%2BStep%2Bv8.ipynb)
+  - [Week 4 - PA 3 - Building your Deep Neural Network: Step by Step](https://github.com/SibaSubramaniam/Coursera-Deep-Learning-Specialization/blob/master/Neural%20Networks%20and%20Deep%20Learning/Building%2Byour%2BDeep%2BNeural%2BNetwork%2B-%2BStep%2Bby%2BStep%2Bv8.ipynb)
   - [Week 4 - PA 4 - Deep Neural Network for Image Classification: Application](https://github.com/SibaSubramaniam/Coursera-Deep-Learning-Specialization/blob/master/Neural%20Networks%20and%20Deep%20Learning/Deep%2BNeural%2BNetwork%2B-%2BApplication%2Bv8.ipynb)
 
 - Course 2: Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization
