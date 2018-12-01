@@ -33,3 +33,5 @@ As a CS major student and a long-time self-taught learner, I have completed many
   - [Week 3 - PA 5 - TensorFlow Tutorial](https://github.com/SibaSubramaniam/Coursera-Deep-Learning-Specialization/blob/master/Improving%20Deep%20Neural%20Networks-%20Hyperparameter%20tuning-%20Regularization%20and%20Optimization/Tensorflow%2BTutorial.ipynb) 
 
 - Course 3: Structuring Machine Learning Projects
+
+- Course 4: Convolutional Neural Networks
