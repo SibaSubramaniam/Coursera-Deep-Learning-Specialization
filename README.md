@@ -36,6 +36,6 @@ As a CS major student and a long-time self-taught learner, I have completed many
 
 - Course 4: Convolutional Neural Networks
 
-- [Week 1 - PA 1 - Convolutional Model: step by step](https://github.com/SibaSubramaniam/Coursera-Deep-Learning-Specialization/blob/master/Improving%20Deep%20Neural%20Networks-%20Hyperparameter%20tuning-%20Regularization%20and%20Optimization/Initialization.ipynb)
-- [Week 1 - PA 2 - Convolutional Model: application](https://github.com/SibaSubramaniam/Coursera-Deep-Learning-Specialization/blob/master/Improving%20Deep%20Neural%20Networks-%20Hyperparameter%20tuning-%20Regularization%20and%20Optimization/Initialization.ipynb)
+  - [Week 1 - PA 1 - Convolutional Model: step by step](https://github.com/SibaSubramaniam/Coursera-Deep-Learning-Specialization/blob/master/Improving%20Deep%20Neural%20Networks-%20Hyperparameter%20tuning-%20Regularization%20and%20Optimization/Initialization.ipynb)
+  - [Week 1 - PA 2 - Convolutional Model: application](https://github.com/SibaSubramaniam/Coursera-Deep-Learning-Specialization/blob/master/Improving%20Deep%20Neural%20Networks-%20Hyperparameter%20tuning-%20Regularization%20and%20Optimization/Initialization.ipynb)
 
