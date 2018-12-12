@@ -40,8 +40,12 @@ As a CS major student and a long-time self-taught learner, I have completed many
   - [Week 1 - PA 2 - Convolutional Model: application](https://github.com/SibaSubramaniam/Coursera-Deep-Learning-Specialization/blob/master/Convolutional%20Neural%20Networks/Convolution%2Bmodel%2B-%2BApplication%2B-%2Bv1.ipynb)
   - [Week 2 - PA 0 - Keras Tutorial - The Happy House](https://github.com/SibaSubramaniam/Coursera-Deep-Learning-Specialization/blob/master/Convolutional%20Neural%20Networks/Keras%2B-%2BTutorial%2B-%2BHappy%2BHouse%2Bv2.ipynb)
   - [Week 2 - PA 1 - Residual Networks](https://github.com/SibaSubramaniam/Coursera-Deep-Learning-Specialization/blob/master/Convolutional%20Neural%20Networks/Residual%2BNetworks%2B-%2Bv2.ipynb)
-  -  Week -2 Papers for read:  [ImageNet Classification with Deep Convolutional
+  -  Week 2 - Papers for read:  [ImageNet Classification with Deep Convolutional
 Neural Networks](https://papers.nips.cc/paper/4824-imagenet-classification-with-deep-convolutional-neural-networks.pdf), [Very Deep Convolutional Networks For Large-Scale Image Recognition](https://arxiv.org/pdf/1409.1556.pdf)
+  - [Week 3 - PA 1 - Car detection with YOLOv2](https://github.com/SibaSubramaniam/Coursera-Deep-Learning-Specialization/blob/master/Convolutional%20Neural%20Networks/Autonomous%2Bdriving%2Bapplication%2B-%2BCar%2Bdetection%2B-%2Bv3.ipynb)
+  -  Week 2 - Papers for read: [You Only Look Once:
+Unified, Real-Time Object Detection](https://arxiv.org/pdf/1506.02640.pdf), [YOLO](https://arxiv.org/pdf/1612.08242.pdf)
+  
   
 
 
