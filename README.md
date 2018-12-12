@@ -43,7 +43,7 @@ As a CS major student and a long-time self-taught learner, I have completed many
   -  Week 2 - Papers for read:  [ImageNet Classification with Deep Convolutional
 Neural Networks](https://papers.nips.cc/paper/4824-imagenet-classification-with-deep-convolutional-neural-networks.pdf), [Very Deep Convolutional Networks For Large-Scale Image Recognition](https://arxiv.org/pdf/1409.1556.pdf)
   - [Week 3 - PA 1 - Car detection with YOLOv2](https://github.com/SibaSubramaniam/Coursera-Deep-Learning-Specialization/blob/master/Convolutional%20Neural%20Networks/Autonomous%2Bdriving%2Bapplication%2B-%2BCar%2Bdetection%2B-%2Bv3.ipynb)
-  -  Week 2 - Papers for read: [You Only Look Once:
+  -  Week 3 - Papers for read: [You Only Look Once:
 Unified, Real-Time Object Detection](https://arxiv.org/pdf/1506.02640.pdf), [YOLO](https://arxiv.org/pdf/1612.08242.pdf)
   
   
