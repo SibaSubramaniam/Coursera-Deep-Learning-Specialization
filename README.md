@@ -45,6 +45,7 @@ Neural Networks](https://papers.nips.cc/paper/4824-imagenet-classification-with-
   - [Week 3 - PA 1 - Car detection with YOLOv2](https://github.com/SibaSubramaniam/Coursera-Deep-Learning-Specialization/blob/master/Convolutional%20Neural%20Networks/Autonomous%2Bdriving%2Bapplication%2B-%2BCar%2Bdetection%2B-%2Bv3.ipynb)
   -  Week 3 - Papers for read: [You Only Look Once:
 Unified, Real-Time Object Detection](https://arxiv.org/pdf/1506.02640.pdf), [YOLO](https://arxiv.org/pdf/1612.08242.pdf)
+  - [Week 4 - PA 1 - Art generation with Neural Style Transfer]()
   
   
 
